@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [All Test Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name="/Users/sangeethanagarathinam/IdeaProjects/SpreeAutomation(failed)" verbose="0">
+    <classes>
+      <class name="com.automation.testcases.HomePageTest">
+        <methods>
+          <include name="searchAndCompareProduct" invocation-numbers="0"/>
+          <include name="TestBase"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.automation.testcases.HomePageTest -->
+    </classes>
+  </test> <!-- /Users/sangeethanagarathinam/IdeaProjects/SpreeAutomation(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->

@@ -1,0 +1,5 @@
+com\automation\baseclass\AutomationPractiseBaseClass.class
+testdata\ReturnData.class
+pages\LoginPage.class
+testdata\ExcelDataConfig.class
+pages\HomePage.class
